@@ -45,3 +45,6 @@ Waveform analysis using tools like ModelSim or GTKWave demonstrates the delay an
 ### **Conclusion:**
 
 This project successfully demonstrates the design and simulation of a digital FIR filter using Verilog. The implementation showcases how digital signal processing concepts can be translated into hardware design. It also highlights the relevance of FIR filters in real-time applications and builds a foundation for more complex filter architectures in the future.
+
+# Output:
+![Image](https://github.com/user-attachments/assets/aecb055b-9be0-4c55-9b74-d0198ae827a5)
